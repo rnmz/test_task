@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="one_thousand_courses">Тысячи курсов\nв одном месте</string>
+    <string name="btn_continue">Продолжить</string>
+</resources>
